@@ -1,6 +1,6 @@
-# flask
-A minimal Flask web application.
-
-For a step-by-step guide to deploying on [Railway](https://railway.app/?referralCode=alphasec), see [this](https://alphasec.io/how-to-deploy-a-python-flask-app-on-railway/) post, or click the button below.
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/igzwwg?referralCode=alphasec)
+# ALDEAS DE NARUTO
+## Integrantes
+- Edward Alexander Canales Yarin       20200022B  
+- Janice Katherine Escobedo Vasquez    20190468C  
+- Bruno Gustavo Cipriano Arroyo        20190497C  
+- Pool Lennin Salvatierra Arevalo      20190282G  
